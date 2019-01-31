@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hatch_panel</folder>
+	<filename>IMG_20190114_191835.jpg</filename>
+	<path>../JPEGImages/IMG_20190114_191835.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hatch_panel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>435</ymin>
+			<xmax>611</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+</annotation>

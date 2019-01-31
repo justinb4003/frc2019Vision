@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cargo</folder>
+	<filename>img_0213.jpg</filename>
+	<path>/home/tsonic/cargo/img_0213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cargo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>448</ymin>
+			<xmax>609</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

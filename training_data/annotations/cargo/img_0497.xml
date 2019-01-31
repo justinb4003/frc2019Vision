@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cargo</folder>
+	<filename>img_0497.jpg</filename>
+	<path>/home/jbuist/git/frc2019Vision/cargo/img_0497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cargo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>383</ymin>
+			<xmax>619</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

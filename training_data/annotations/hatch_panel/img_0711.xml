@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hatch_panel</folder>
+	<filename>IMG_0711.JPG</filename>
+	<path>/home/tsonic/hatch_panel/IMG_0711.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hatch_panel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>240</ymin>
+			<xmax>475</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>
